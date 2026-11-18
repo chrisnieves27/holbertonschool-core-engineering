@@ -1,4 +1,4 @@
-#!/usr/bin/env pytho3
+#!/usr/bin/env python3
 """Define a rectangle with validated width and height."""
 
 
