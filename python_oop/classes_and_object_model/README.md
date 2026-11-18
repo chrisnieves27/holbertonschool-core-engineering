@@ -5,3 +5,7 @@ Introduction to Python classes, objects, and instances.
 ## Files
 
 - `0-square.py`: Defines an empty Square class.
+
+## Print Square Instance
+
+Implement a Square class with validated size and position properties, area calculation, printing, and string representation.
