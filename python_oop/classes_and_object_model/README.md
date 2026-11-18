@@ -13,3 +13,7 @@ Implement a Square class with validated size and position properties, area calcu
 ## Rectangle Class
 
 Implement a Rectangle class with private width and height attributes, validated properties, and optional dimensions defaulting to zero.
+
+## Rectangle Class
+
+Implement a Rectangle class with private width and height attributes, validated properties, and optional dimensions defaulting to zero.
