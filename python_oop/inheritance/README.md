@@ -6,3 +6,7 @@ Implement BaseGeometry with an unimplemented area method and a positive integer 
 ## Rectangle
 
 Implement Rectangle inheriting from BaseGeometry with private width and height validated as positive integers.
+
+## Full Rectangle
+
+Implement Rectangle with validated private dimensions, area calculation, and a readable string representation.
