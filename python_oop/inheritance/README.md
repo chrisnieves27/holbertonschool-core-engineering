@@ -14,3 +14,7 @@ Implement Rectangle with validated private dimensions, area calculation, and a r
 ## Square 1
 
 Implement Square inheriting from Rectangle with a validated private size and an area method.
+
+## Square 1
+
+Implement Square inheriting from Rectangle with a validated private size and an area method.
