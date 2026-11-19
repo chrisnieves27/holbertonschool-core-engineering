@@ -10,3 +10,7 @@ Implement Rectangle inheriting from BaseGeometry with private width and height v
 ## Full Rectangle
 
 Implement Rectangle with validated private dimensions, area calculation, and a readable string representation.
+
+## Square 1
+
+Implement Square inheriting from Rectangle with a validated private size and an area method.
