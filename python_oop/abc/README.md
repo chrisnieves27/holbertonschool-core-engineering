@@ -7,3 +7,5 @@ shapes.py defines Shape, Circle, Rectangle, and the shape_info function.
 flyingfish.py demonstrates multiple inheritance with Fish, Bird, and FlyingFish.
 
 dragon.py combines SwimMixin and FlyMixin in the Dragon class.
+
+verboselist.py extends list with notifications for append, extend, remove, and pop.
